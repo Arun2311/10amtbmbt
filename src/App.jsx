@@ -39,7 +39,8 @@ function App() {
 <Name/>
  */}
 
-        {/* <ApiCall/> */}
+<h1>Click for product</h1>
+        <ApiCall/>
 
         {/* <ApiCallTwo/> */}
 
@@ -78,10 +79,9 @@ function App() {
 
         {/* <FormState/> */}
 
-<h1>kjdsafbadsjhdhsdfd</h1>
 
         {/* <Home/> */}
-        <Counter/>
+        {/* <Counter/> */}
       </div>
     // </BrowserRouter>
   );
